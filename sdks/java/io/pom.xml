@@ -45,6 +45,7 @@
     <module>cassandra</module>
     <module>common</module>
     <module>elasticsearch</module>
+    <module>elasticsearch6</module>
     <module>elasticsearch-tests</module>
     <module>file-based-io-tests</module>
     <module>google-cloud-platform</module>
